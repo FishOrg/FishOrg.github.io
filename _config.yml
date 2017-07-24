@@ -9,7 +9,7 @@ permalink:           /:year/:month/:day/:title/
 
 # Setup
 title:               "Blog-Title"
-name:				 "Vishal Salgotra"
+name:				         "Vishal Salgotra"
 tagline:             "A blog about C++ and everything."
 description:         "Detailed description of blog goes here."
 url:                 http://blog.scottlowe.org
@@ -21,7 +21,7 @@ author:
   name:              Vishal Salgotra
   url:               https://twitter.com/scott_lowe
   email:             scott.lowe@scottlowe.org
-  github:            lowescott
+  github:            salgotrav
   twitter:           scott_lowe
 
 # Custom vars
