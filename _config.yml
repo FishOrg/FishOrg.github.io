@@ -8,17 +8,17 @@ markdown:            kramdown
 permalink:           /:year/:month/:day/:title/
 
 # Setup
-title:               "Scott's Weblog"
-name:				 "Scott's Weblog"
-tagline:             "The weblog of an IT pro specializing in virtualization, networking, open source, and cloud computing"
-description:         "Offering technical posts and how-to articles from an IT pro specializing in virtualization, networking, open source, & cloud computing"
+title:               "Blog-Title"
+name:				 "Vishal Salgotra"
+tagline:             "A blog about C++ and everything."
+description:         "Detailed description of blog goes here."
 url:                 http://blog.scottlowe.org
 baseurl:             /
 paginate:            10
 
 # About/contact
 author:
-  name:              Scott Lowe
+  name:              Vishal Salgotra
   url:               https://twitter.com/scott_lowe
   email:             scott.lowe@scottlowe.org
   github:            lowescott
