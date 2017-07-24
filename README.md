@@ -1,4 +1,4 @@
-lowescott.github.io
+Blog address here
 ===================
 
-This is the GitHub repository for my weblog, which I migrated here from a self-hosted WordPress installation.
+Sample description. This is the GitHub repository for my weblog, which I migrated here from a self-hosted WordPress installation.
